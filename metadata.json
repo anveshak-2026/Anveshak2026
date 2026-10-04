@@ -1,0 +1,6 @@
+{
+  "name": "ANVESHAK - Multi-Vendor DVR/NVR Forensic Analysis",
+  "description": "Multi-Vendor DVR/NVR Forensic Analysis & Evidence Reconstruction Platform for SIH26150. Standardized acquisition, recovery, conflict detection, and chain of custody.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
